@@ -1,0 +1,11 @@
+##Built application files
+*.apk
+*.ap_
+
+##Java Class files
+*.class
+
+##Generated files
+bin/
+gen/
+out/
